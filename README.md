@@ -10,6 +10,10 @@ I'm a passionate student pursuing a Master's in Scientific Computing and Mathema
 - 💻 I am enthusiastic about data science, machine learning and software development.
 - 🌱 Always eager to learn and explore new technologies.
 
+## Location
+
+📍 Strasbourg, France
+
 ## Skills
 
 - **Programming Languages:** Python, C++, R.
