@@ -1,6 +1,7 @@
 # Hello, I'm Giulio 👋
 
-Welcome to my GitHub profile! //
+Welcome to my GitHub profile!
+
 I'm a passionate student pursuing a Master's in Scientific Computing and Mathematics for Innovation.
 
 ## About Me
