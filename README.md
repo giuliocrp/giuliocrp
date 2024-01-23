@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Giulio 👋
 
-<!--
-**GiulioCrp/GiulioCrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student pursuing a Master's in Scientific Computing and Mathematics for Innovation. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently enrolled in the Master's program in Scientific Computing and Mathematics for Innovation.
+- 💻 I am enthusiastic about data science, machine learning and software development.
+- 🌱 Always eager to learn and explore new technologies.
+
+## Skills
+
+- **Programming Languages:** Python, C++, R.
+- **Tools and Technologies:** Git, Jupyter.
+- **Mathematics:** Advanced numerical analysis techniques, Statistics, Differential calculus.
+
+## Projects
+
+### Project 1: [Project Name]
+
+Brief description of the project, technologies used, and any notable achievements.
+
+### Project 2: [Project Name]
+
+Brief description of the project, technologies used, and any notable achievements.
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/giulio-carpi
+- Email: giulio.carpilapi@icloud.com
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
