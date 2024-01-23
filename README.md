@@ -13,17 +13,7 @@ I'm a passionate student pursuing a Master's in Scientific Computing and Mathema
 - **Programming Languages:** Python, C++, R.
 - **Tools and Technologies:** Git, Jupyter.
 - **Mathematics:** Advanced numerical analysis techniques, Statistics, Differential calculus.
-
-## Projects
-
-### Project 1: [Project Name]
-
-Brief description of the project, technologies used, and any notable achievements.
-
-### Project 2: [Project Name]
-
-Brief description of the project, technologies used, and any notable achievements.
-
+- 
 ## Connect with Me
 
 - LinkedIn: www.linkedin.com/in/giulio-carpi
