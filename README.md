@@ -23,6 +23,6 @@ I'm a passionate student pursuing a Master's in Scientific Computing and Mathema
 ## Connect with Me
 
 - LinkedIn: [giulioCrp](www.linkedin.com/in/giuliocrp)
-- Email: giulio.carpilapi@icloud.com
+- Email: giulio dot carpilapi at icloud dot com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
