@@ -16,8 +16,8 @@ I'm a passionate student pursuing a Master's in Scientific Computing and Mathema
 
 ## Skills
 
-- **Programming Languages:** C++, Python, R.
-- **Tools and Technologies:** Git, Jupyter.
+- **Programming Languages:** C++, Python, R, SQL.
+- **Tools and Technologies:** Git, MPI.
 - **Mathematics:** Advanced numerical analysis techniques, Statistics, Differential calculus, Partial differential equations.
 
 ## Connect with Me
