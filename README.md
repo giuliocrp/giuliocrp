@@ -2,9 +2,8 @@
 
 ### About Me
 
-- 🎓 Currently enrolled in the Master's program in Scientific Computing and Mathematics for Innovation.
+- 🎓 I hold a BSc in Applied Mathematics and pursuing a MSc in Applied Mathematics in the same institution.
 - 💻 I am enthusiastic about data science, machine learning and software development.
-- 🌱 Always eager to learn and explore new technologies.
 
 ### Skills
 
