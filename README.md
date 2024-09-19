@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Giulio
 
-📅 Currently looking for an **internship position** starting from **February 2025** for the duration of **6 months**.
+📅 Currently looking for an **internship position** starting from **February 2025** (flexible) for the duration of **6 months**.
 
 ### About Me
 - 🎓 Pursuing a **MSc** in **Applied Mathematics** @ [Unistra](https://en.unistra.fr)
