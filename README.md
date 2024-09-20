@@ -5,4 +5,4 @@
 ### About Me
 - 🎓 Pursuing a **MSc** in **Applied Mathematics** @ [Unistra](https://en.unistra.fr)
 - 🎓 **BSc graduate** in **Applied Mathematics** from the same institution
-- 💻 Enthusiastic about **data science**, **software development** and **machine learning**
+- 💻 Enthusiastic about **software development**, **data science** and **machine learning**
