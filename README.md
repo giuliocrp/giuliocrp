@@ -5,4 +5,4 @@
 - 🎓 **Bachelor's degree** in **Applied Mathematics** from the same institution
 - 💻 Enthusiastic about **scientific comupting**, **software development**, **data science** and **machine learning**
 
-- In my free time, I enjoy 🏃 and 🏊‍♂️.
+In my free time, I enjoy 🏃 and 🏊‍♂️.
